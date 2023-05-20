@@ -1,0 +1,7 @@
+{
+  "name": "objects-3d",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
